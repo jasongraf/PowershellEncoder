@@ -1,5 +1,5 @@
 # PowershellEncoder
-Powershell Encoder is a simple script that will prompt you for your powershell command you would like to encode.
+PowershellEncoder is a simple script that will prompt you for your powershell command you would like to encode.
 <br>
 Input will be encoded in Base64 Unicode and output on screen. 
 
